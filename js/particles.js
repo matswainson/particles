@@ -8,7 +8,7 @@ var Particles = (function(document, window) {
     pointer = {
       x: (window.innerWidth / 2),
       y: (window.innerHeight / 2)
-    ,
+    },
     particles = [];
 
   function getRandomInt(min, max) {
